@@ -1,7 +1,7 @@
-server {  # Слушаем порт 80 (HTTP)
+server {
     server_name hole.ddns.net; 
 
-    root /home/serotonin/web/hole.ddns.net;
+    root /home/serotonin/The_hole/web/hole.ddns.net;
     index index.html;
 
     location / {
@@ -24,6 +24,4 @@ server {
     listen 80;
     server_name hole.ddns.net;
     return 404; # managed by Certbot
-
-
 }
