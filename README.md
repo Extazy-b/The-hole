@@ -36,7 +36,7 @@
     - домен: hole.ddns.net
 
 5. стартовая [wellcome страничка](https:hole.ddns.net) <br>
-   P.S гит еблан и ссылку руинит [https:hole.ddns.net](https:hole.ddns.net)
+   P.S гит еблан и ссылку руинит https://hole.ddns.net/
 
 7. синхронизация сервера с обновлениями репозитория с исходниками
 
