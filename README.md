@@ -35,7 +35,7 @@
     - сервис: no-ip
     - домен: hole.ddns.net
 
-5. стартовая homepage по адрессу https:hole.ddns.net
+5. стартовая [wellcome страничка](https:hole.ddns.net)
 
 6. синхронизация сервера с обновлениями репозитория с исходниками
 

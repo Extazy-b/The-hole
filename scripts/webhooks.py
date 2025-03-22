@@ -7,7 +7,8 @@ import json
 app = Flask(__name__)
 
 # Настройка логирования
-LOG_FILE = "/var/www/The_hole/webhook.log"
+LOG_FILE = "/home/serotonin/The_hole/logs/webhooks/webhook.log"
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
