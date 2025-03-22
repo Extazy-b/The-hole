@@ -1,0 +1,218 @@
+2025-03-22 08:35:40.788187: Received webhook request
+2025-03-22 08:35:40.788614: Headers: {
+  "Host": "hole.ddns.net:2020",
+  "User-Agent": "GitHub-Hookshot/6ca16fb",
+  "Content-Length": "7372",
+  "Accept": "*/*",
+  "Content-Type": "application/json",
+  "X-Github-Delivery": "7d7cd51c-06df-11f0-9803-5a3f492f1157",
+  "X-Github-Event": "push",
+  "X-Github-Hook-Id": "536680678",
+  "X-Github-Hook-Installation-Target-Id": "952883760",
+  "X-Github-Hook-Installation-Target-Type": "repository",
+  "Connection": "close"
+}
+2025-03-22 08:35:40.789689: Payload: {
+  "ref": "refs/heads/main",
+  "before": "3e3e4bfb6141b456d3e2980a759db6965bdb603f",
+  "after": "6cf7ad300315b190a89551d09798ff3b997824c2",
+  "repository": {
+    "id": 952883760,
+    "node_id": "R_kgDOOMvaMA",
+    "name": "The-hole",
+    "full_name": "Extazy-b/The-hole",
+    "private": false,
+    "owner": {
+      "name": "Extazy-b",
+      "email": "75794495+Extazy-b@users.noreply.github.com",
+      "login": "Extazy-b",
+      "id": 75794495,
+      "node_id": "MDQ6VXNlcjc1Nzk0NDk1",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75794495?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Extazy-b",
+      "html_url": "https://github.com/Extazy-b",
+      "followers_url": "https://api.github.com/users/Extazy-b/followers",
+      "following_url": "https://api.github.com/users/Extazy-b/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Extazy-b/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Extazy-b/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Extazy-b/subscriptions",
+      "organizations_url": "https://api.github.com/users/Extazy-b/orgs",
+      "repos_url": "https://api.github.com/users/Extazy-b/repos",
+      "events_url": "https://api.github.com/users/Extazy-b/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Extazy-b/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "html_url": "https://github.com/Extazy-b/The-hole",
+    "description": null,
+    "fork": false,
+    "url": "https://github.com/Extazy-b/The-hole",
+    "forks_url": "https://api.github.com/repos/Extazy-b/The-hole/forks",
+    "keys_url": "https://api.github.com/repos/Extazy-b/The-hole/keys{/key_id}",
+    "collaborators_url": "https://api.github.com/repos/Extazy-b/The-hole/collaborators{/collaborator}",
+    "teams_url": "https://api.github.com/repos/Extazy-b/The-hole/teams",
+    "hooks_url": "https://api.github.com/repos/Extazy-b/The-hole/hooks",
+    "issue_events_url": "https://api.github.com/repos/Extazy-b/The-hole/issues/events{/number}",
+    "events_url": "https://api.github.com/repos/Extazy-b/The-hole/events",
+    "assignees_url": "https://api.github.com/repos/Extazy-b/The-hole/assignees{/user}",
+    "branches_url": "https://api.github.com/repos/Extazy-b/The-hole/branches{/branch}",
+    "tags_url": "https://api.github.com/repos/Extazy-b/The-hole/tags",
+    "blobs_url": "https://api.github.com/repos/Extazy-b/The-hole/git/blobs{/sha}",
+    "git_tags_url": "https://api.github.com/repos/Extazy-b/The-hole/git/tags{/sha}",
+    "git_refs_url": "https://api.github.com/repos/Extazy-b/The-hole/git/refs{/sha}",
+    "trees_url": "https://api.github.com/repos/Extazy-b/The-hole/git/trees{/sha}",
+    "statuses_url": "https://api.github.com/repos/Extazy-b/The-hole/statuses/{sha}",
+    "languages_url": "https://api.github.com/repos/Extazy-b/The-hole/languages",
+    "stargazers_url": "https://api.github.com/repos/Extazy-b/The-hole/stargazers",
+    "contributors_url": "https://api.github.com/repos/Extazy-b/The-hole/contributors",
+    "subscribers_url": "https://api.github.com/repos/Extazy-b/The-hole/subscribers",
+    "subscription_url": "https://api.github.com/repos/Extazy-b/The-hole/subscription",
+    "commits_url": "https://api.github.com/repos/Extazy-b/The-hole/commits{/sha}",
+    "git_commits_url": "https://api.github.com/repos/Extazy-b/The-hole/git/commits{/sha}",
+    "comments_url": "https://api.github.com/repos/Extazy-b/The-hole/comments{/number}",
+    "issue_comment_url": "https://api.github.com/repos/Extazy-b/The-hole/issues/comments{/number}",
+    "contents_url": "https://api.github.com/repos/Extazy-b/The-hole/contents/{+path}",
+    "compare_url": "https://api.github.com/repos/Extazy-b/The-hole/compare/{base}...{head}",
+    "merges_url": "https://api.github.com/repos/Extazy-b/The-hole/merges",
+    "archive_url": "https://api.github.com/repos/Extazy-b/The-hole/{archive_format}{/ref}",
+    "downloads_url": "https://api.github.com/repos/Extazy-b/The-hole/downloads",
+    "issues_url": "https://api.github.com/repos/Extazy-b/The-hole/issues{/number}",
+    "pulls_url": "https://api.github.com/repos/Extazy-b/The-hole/pulls{/number}",
+    "milestones_url": "https://api.github.com/repos/Extazy-b/The-hole/milestones{/number}",
+    "notifications_url": "https://api.github.com/repos/Extazy-b/The-hole/notifications{?since,all,participating}",
+    "labels_url": "https://api.github.com/repos/Extazy-b/The-hole/labels{/name}",
+    "releases_url": "https://api.github.com/repos/Extazy-b/The-hole/releases{/id}",
+    "deployments_url": "https://api.github.com/repos/Extazy-b/The-hole/deployments",
+    "created_at": 1742617661,
+    "updated_at": "2025-03-22T05:31:32Z",
+    "pushed_at": 1742621739,
+    "git_url": "git://github.com/Extazy-b/The-hole.git",
+    "ssh_url": "git@github.com:Extazy-b/The-hole.git",
+    "clone_url": "https://github.com/Extazy-b/The-hole.git",
+    "svn_url": "https://github.com/Extazy-b/The-hole",
+    "homepage": null,
+    "size": 17,
+    "stargazers_count": 0,
+    "watchers_count": 0,
+    "language": "HTML",
+    "has_issues": true,
+    "has_projects": true,
+    "has_downloads": true,
+    "has_wiki": true,
+    "has_pages": false,
+    "has_discussions": false,
+    "forks_count": 0,
+    "mirror_url": null,
+    "archived": false,
+    "disabled": false,
+    "open_issues_count": 0,
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0",
+      "node_id": "MDc6TGljZW5zZTk="
+    },
+    "allow_forking": true,
+    "is_template": false,
+    "web_commit_signoff_required": false,
+    "topics": [],
+    "visibility": "public",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "default_branch": "main",
+    "stargazers": 0,
+    "master_branch": "main"
+  },
+  "pusher": {
+    "name": "Extazy-b",
+    "email": "75794495+Extazy-b@users.noreply.github.com"
+  },
+  "sender": {
+    "login": "Extazy-b",
+    "id": 75794495,
+    "node_id": "MDQ6VXNlcjc1Nzk0NDk1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/75794495?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Extazy-b",
+    "html_url": "https://github.com/Extazy-b",
+    "followers_url": "https://api.github.com/users/Extazy-b/followers",
+    "following_url": "https://api.github.com/users/Extazy-b/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Extazy-b/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Extazy-b/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Extazy-b/subscriptions",
+    "organizations_url": "https://api.github.com/users/Extazy-b/orgs",
+    "repos_url": "https://api.github.com/users/Extazy-b/repos",
+    "events_url": "https://api.github.com/users/Extazy-b/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Extazy-b/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "base_ref": null,
+  "compare": "https://github.com/Extazy-b/The-hole/compare/3e3e4bfb6141...6cf7ad300315",
+  "commits": [
+    {
+      "id": "6cf7ad300315b190a89551d09798ff3b997824c2",
+      "tree_id": "d3cc2347137676deb38f019c85011cb483a9e516",
+      "distinct": true,
+      "message": "...",
+      "timestamp": "2025-03-22T08:35:35+03:00",
+      "url": "https://github.com/Extazy-b/The-hole/commit/6cf7ad300315b190a89551d09798ff3b997824c2",
+      "author": {
+        "name": "Extazy-b",
+        "email": "esikov506@gmail.com",
+        "username": "Extazy-b"
+      },
+      "committer": {
+        "name": "Extazy-b",
+        "email": "esikov506@gmail.com",
+        "username": "Extazy-b"
+      },
+      "added": [],
+      "removed": [],
+      "modified": [
+        "README.md"
+      ]
+    }
+  ],
+  "head_commit": {
+    "id": "6cf7ad300315b190a89551d09798ff3b997824c2",
+    "tree_id": "d3cc2347137676deb38f019c85011cb483a9e516",
+    "distinct": true,
+    "message": "...",
+    "timestamp": "2025-03-22T08:35:35+03:00",
+    "url": "https://github.com/Extazy-b/The-hole/commit/6cf7ad300315b190a89551d09798ff3b997824c2",
+    "author": {
+      "name": "Extazy-b",
+      "email": "esikov506@gmail.com",
+      "username": "Extazy-b"
+    },
+    "committer": {
+      "name": "Extazy-b",
+      "email": "esikov506@gmail.com",
+      "username": "Extazy-b"
+    },
+    "added": [],
+    "removed": [],
+    "modified": [
+      "README.md"
+    ]
+  }
+}
+2025-03-22 08:35:42.633163: Git pull stdout: Updating 3e3e4bf..6cf7ad3
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+2025-03-22 08:35:42.633351: Git pull stderr: From github.com:Extazy-b/The-hole
+ * branch            main       -> FETCH_HEAD
+   3e3e4bf..6cf7ad3  main       -> origin/main
+
+2025-03-22 08:35:42.633476: Git pull successful
